@@ -1,0 +1,19 @@
+[
+  {
+    "label": "Dashboard",
+    "value": "dashboard"
+  },
+  {
+    "label": "Trainee",
+    "value": "trainee"
+  },
+  {
+    "label": "Fee Plan",
+    "value": "trainee"
+  },
+  {
+    "label": "Settings",
+    "subOptions": ["Profile", "Logout"],
+    "value": "trainee"
+  }
+]
